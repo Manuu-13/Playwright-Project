@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "scripts": {}
+}
