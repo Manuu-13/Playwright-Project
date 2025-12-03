@@ -9,6 +9,8 @@ export class Locator{
     leadFirstName='//input[@name="firstName"]';
     leadCompany='//input[@name="Company"]';
     leadsalutation='//button[@aria-label="Salutation"]';
-    
+    selectConverted='//span[text()="Select Converted Status"]';
+    converted='//a[@title="Converted"]';
+    convert='//button[text()="Convert"]';
 }
 export const locator = new Locator();
